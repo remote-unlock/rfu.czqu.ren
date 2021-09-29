@@ -1,1 +1,1 @@
-# assets
+# auto minify js,css
